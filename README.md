@@ -38,7 +38,10 @@ P.S. Star and share this repository, if you had fun!
 - What is the duration of Hacktoberfest 2020?
   - It is from 1st october to 31st october 2020.
 
-- What is the event for?
+- What is this event for?
   - For the open source community engagement.
+
+- Can anyone participate?
+  - Yes, anyone with a github account.
 
 ### *I will do my best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible <3*
